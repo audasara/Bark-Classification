@@ -11,7 +11,7 @@ The project investigates how different deep learning architectures recognize vis
 | Item | Description |
 |---|---|
 | Task | 15-class tree bark image classification |
-| Total images | 6,090 |
+| Total images | 5,295 |
 | Training | 3,705 images |
 | Validation | 795 images |
 | Final test | 795 images |
